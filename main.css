@@ -1,0 +1,23 @@
+.navbar-brand {
+    font-weight: 700;
+    font-family: Comfortaa;
+}
+
+.nav-item {
+    font-weight: 400;
+    font-family: Comfortaa;
+}
+
+.fa-solid {
+    padding: 8px;
+}
+
+body {
+    font-family: Comfortaa;
+}
+
+.logo {
+    height: 32px;
+    padding-bottom: 4px;
+    padding-right: 8px;
+}
