@@ -1,11 +1,11 @@
 .navbar-brand {
     font-weight: 700;
-    font-family: Comfortaa;
+    font-family: 'Comfortaa', sans-serif;
 }
 
 .nav-item {
     font-weight: 400;
-    font-family: Comfortaa;
+    font-family: 'Comfortaa', sans-serif;
 }
 
 .fa-solid {
@@ -13,7 +13,6 @@
 }
 
 body {
-    font-family: Comfortaa;
     background-image: url('bg.png');
     background-attachment: fixed;
     background-size: cover;
@@ -24,4 +23,12 @@ body {
     height: 32px;
     padding-bottom: 4px;
     padding-right: 8px;
+}
+
+.content {
+    padding: 8px;
+    margin: 2% 3%;
+    border-radius: 0.75em;
+    background-color: #ffffffcc;
+    font-family: 'Nunito', sans-serif;
 }
